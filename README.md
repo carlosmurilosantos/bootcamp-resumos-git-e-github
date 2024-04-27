@@ -10,5 +10,5 @@ aprendidos no Bootcamp AWS(/web.dio.me)
 -[Documentação GitHub(https://docs.github.com/pt/get-started)]
 
 ## 🖥 Resumo das aulas 
-
+Comandos:
 git reset - retornar a um commit anterior 
